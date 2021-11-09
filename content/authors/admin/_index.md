@@ -5,9 +5,11 @@ avatar_filename: null
 bio: My research interests include AgEcon, International Trade, Productivity,
   Labor Economics & Immigration.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AgEcon
+  - Labor Economics
+  - Immigration
+  - Trade
+  - Productivity
 social:
   - icon: envelope
     icon_pack: fas

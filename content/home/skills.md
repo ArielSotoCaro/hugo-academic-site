@@ -32,7 +32,7 @@ feature:
   icon: superscript
   icon_pack: fas
   name: LaTeX
-- description: 10%
+- description: 30%
   icon: globe-americas
   icon_pack: far
   name: GIS

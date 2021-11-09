@@ -2,8 +2,8 @@
 title: Ariel Soto-Caro
 role: Assistant Professor of Economics
 avatar_filename: null
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include AgEcon, International Trade, Productivity,
+  Labor Economics & Immigration.
 interests:
   - Artificial Intelligence
   - Computational Linguistics

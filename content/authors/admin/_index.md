@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/ArielSotoCaro
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=N5QT5CIAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ArielSotoCaro

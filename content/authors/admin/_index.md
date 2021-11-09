@@ -29,15 +29,15 @@ organizations:
     url: https://www.udec.cl/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Food and Resource Economics
+      institution: University of Florida
+      year: 2022
+    - course: MSc in Environmental and Resource Economics
+      institution: University of Concepción
+      year: 2010
+    - course: BSc in Economics
+      institution: University of Concepción
+      year: 2007
 email: ""
 superuser: true
 highlight_name: true

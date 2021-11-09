@@ -34,10 +34,10 @@ feature:
   name: LaTeX
 - description: 30%
   icon: globe-americas
-  icon_pack: far
+  icon_pack: fas
   name: GIS
 - description: 10%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python
   

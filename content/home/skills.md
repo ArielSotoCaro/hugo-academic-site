@@ -33,13 +33,14 @@ feature:
   icon_pack: fas
   name: LaTeX
 - description: 10%
-  icon: python
+  icon: globe-americas
   icon_pack: far
-  name: Python
+  name: GIS
 - description: 10%
-  icon: python
-  icon_pack: fas
+  icon: fa-python
+  icon_pack: fab
   name: Python
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

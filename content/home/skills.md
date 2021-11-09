@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Skills
 subtitle:
@@ -34,9 +34,12 @@ feature:
   name: LaTeX
 - description: 10%
   icon: python
+  icon_pack: far
+  name: Python
+- description: 10%
+  icon: python
   icon_pack: fas
   name: Python
-  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

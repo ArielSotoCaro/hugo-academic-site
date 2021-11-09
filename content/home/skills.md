@@ -24,11 +24,19 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 70%
+  icon: signal
   icon_pack: fas
-  name: Photography
-
+  name: Stata
+- description: 90%
+  icon: superscript
+  icon_pack: fas
+  name: LaTeX
+- description: 10%
+  icon: python
+  icon_pack: fas
+  name: Python
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
